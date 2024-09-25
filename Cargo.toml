@@ -1,5 +1,5 @@
 [package]
-name = "snoop"
+name = "snoop-cli"
 authors = ["Joey Meere <joey@sqds.io>"]
 description = "A tool suite for inspecting Solana programs"
 license = "MIT"

@@ -7,7 +7,7 @@ A tool suite for inspecting Solana programs
 ### Cargo
 
 ```bash
-cargo install snoop
+cargo install snoop-cli
 ```
 
 ## Usage

@@ -484,7 +484,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "snoop"
+name = "snoop-cli"
 version = "0.1.0"
 dependencies = [
  "anyhow",
