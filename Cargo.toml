@@ -1,5 +1,8 @@
 [package]
 name = "snoop"
+authors = ["Joey Meere <joey@sqds.io>"]
+description = "A tool suite for inspecting Solana programs"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
